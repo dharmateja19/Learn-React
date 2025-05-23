@@ -1,0 +1,9 @@
+folder structure
+root -> src -> components , utils
+src -> App.js
+components -> Navbar.js, ProductCard.js, Product.js
+utils -> constants.js
+
+export/import
+named export -> import {...} // used when there are multiple components
+default export -> import ... // used only simple one component
