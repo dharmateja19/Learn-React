@@ -1,0 +1,17 @@
+Bundlers
+Webpack -> npx create-react-app
+vite -> npx vite@latest
+parcel -> for making production ready 
+hmr 
+npm -> package manager
+npm init / npm init -y(automatically generate)
+package.json -> object containing deatils of packages
+pm i -D parcel ->installing parcel as a dev dependency
+^ -> caret -> minor version changes
+~ -> tilde -> major version changes
+package-lock.json -> tracks exact version of packages
+node_modules -> database stores packages -> sub packages
+.dist , .parcel-cache
+for production cdn is not suitable
+we have to use react module -> npm i react react-dom
+file voture algorithm 

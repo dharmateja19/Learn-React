@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "name": "ep3",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "parcel": "^2.15.1",
+    "@babel/core": "^7.27.1",
+    "@babel/preset-react": "^7.27.1"
+  }
+}

@@ -1,0 +1,2 @@
+props
+inline style jsx -> style = {{"property" : "value}}"

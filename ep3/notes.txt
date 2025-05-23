@@ -1,0 +1,14 @@
+JSX - javascript xml makes development easy
+browser doesnot understand JSX
+babel => jsx -> transpilation -> react element
+parcel contains babel also 
+for writing multiple lines of jsx use ()
+use {} inside jsx for inserting the js
+class -> className
+component -> normal js function which returns jsx
+class based component -> old way
+functional components -> new way
+<Comp2/>
+<Comp2></Comp2>
+{Comp2()}
+various ways of calling components in another components
