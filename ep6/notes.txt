@@ -1,0 +1,3 @@
+filtering products 
+usestate 
+when variable changes it automatically re-renders the component
