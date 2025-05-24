@@ -1,0 +1,9 @@
+normal js variables are not suitable for rerendering
+we use state variables
+App Load -> API call -> Render Fetched Data (not recommended)
+App Load -> Render Skeliton -> API call -> Render Fetched Data (Recommended)
+useEffect is used to acheive above one
+useeffect takes 2 args -> callback, array dependency
+UseEffect automatically called
+fetch returns a promise. we use async await here.
+data.json also returns promise so we use await here also

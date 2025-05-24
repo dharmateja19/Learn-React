@@ -1,0 +1,3 @@
+Reconcilation Algorithms (React fiber) makes react faster
+virtual dom -> actual representation of dom
+Diff Algorithms -> Real dom - virtual dom
