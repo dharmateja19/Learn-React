@@ -1,0 +1,8 @@
+useEffect 
+[] => only once called when navbar rendered
+no array dependency => whenever navbar rendered useEffect also called
+[btnName] => when variable changes useEffect also called
+you cannot put state variable in conditional or control or outside component function
+react router dom is used for routing to different pages
+when we use anchors in navbar the entire page is loading again
+we have to use Link tag
