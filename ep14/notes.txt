@@ -1,0 +1,10 @@
+component did update and component will unmount
+mounting phase 
+constructor with userdetails null called
+render called with loading..
+componentdidmount
+update phase
+constructor called with values from response
+render called with details of user
+componentdidupdate
+componentwillunmount called when we go for another page by leaving this

@@ -1,0 +1,5 @@
+Class Based components
+extend React.component which has constructor and render method
+render returns jsx
+this keyword
+state variables are created in constructor

@@ -1,0 +1,10 @@
+React life cycle model
+in componentdidmount we call api call
+patent ctr is called
+parent render called
+child constructor called
+child render called
+child component didmount called
+parent mount called
+if there are two components need to be called they mmust have one parent <div>
+upto completion of all components rendering mount method not called
