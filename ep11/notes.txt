@@ -1,0 +1,3 @@
+Dynamic Routing
+: in route Dynamic route
+useParams 
