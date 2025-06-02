@@ -1,0 +1,5 @@
+cleanup - when we have setInterval we have to use clearInterval in componentwillunmount
+componentwillunmount
+useEffect and componentdidmount are not same 
+for multiple useEffects we have to use that many if conditionals in componentdidupdate
+cleanup in functional component is done using return ()=>{}
