@@ -1,0 +1,6 @@
+custom hooks -> start with use keyword
+linter 
+if we want to use two store in one app then they all are bundled in one app which is not optimized
+so we need to use optimized wayby creating different bundlers
+lazy loading - code splitting - dynamic import
+suspense -> fallback
