@@ -1,0 +1,3 @@
+Higher Order Component
+A function that receives a component and modifies that and returns a new component
+... spread operator

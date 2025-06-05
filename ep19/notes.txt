@@ -1,0 +1,5 @@
+Lifting state up
+controlled and uncontrolled components
+parents can contol their childs
+changing the state of component to its parent component is known as lifting state up
+we can change the state variable from another component also by passing iy in props
