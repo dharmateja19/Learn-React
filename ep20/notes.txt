@@ -1,0 +1,5 @@
+Use Context
+props drilling - passing props from one to another , another to another 
+there is a problem we cannot pass props from bottom to up
+keep data at somewhere globally and use at wherever you want -> Context API
+for using Usecontext in class based components we have to use Usecontext.consumer 
