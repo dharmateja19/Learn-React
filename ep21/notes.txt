@@ -1,0 +1,5 @@
+Redux Tool kit
+State Management tool kit
+store -> slice (a part of storage)
+Add to cart (clicked) -> dispatch an action -> calls a reducer function -> adds to the cartItems
+for displaying in cart from cartItems there is a selector in between  them
