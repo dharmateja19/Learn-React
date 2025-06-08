@@ -1,0 +1,6 @@
+useState , useEffect ,useRef .... -> core React hooks
+useMemo -> cache the result of a calculation b/w re-renders
+ex - calculating nth prime takes time for large n value so we need memo
+we want to access DOM element
+in Ref.js for change in Y the x value before is gone due to re-renders
+this is the problem -> so use the hook useRef
