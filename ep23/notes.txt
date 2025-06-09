@@ -1,0 +1,4 @@
+Form Handling & validation with ZOD
+zod -> for form validation
+define schema and use it when form submitted 
+safeparse is a method to check
